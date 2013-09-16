@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[My Data Experinece Blog]]></title>
+  <link href="http://sarath-chandra.github.io//github/atom.xml" rel="self"/>
+  <link href="http://sarath-chandra.github.io//github/"/>
+  <updated>2013-09-17T01:45:18+05:30</updated>
+  <id>http://sarath-chandra.github.io//github/</id>
+  <author>
+    <name><![CDATA[Sarath Chandra]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+</feed>
